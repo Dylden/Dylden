@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi there ! I'm Dylan 👋
 
-<!--
-**Dylden/Dylden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on my project "MeloQuest" for my bootcamp at La Piscine in Mérignac (France), in this website you can upload your tracks, rate and comment other tracks. It's a real pleasure to work on it.
+  
+:computer: ##skills
+              #front-end
+  - HTML5 / CSS3
+  - JavaScript
+  - SASS
+  - Bootstrap
+              #back-end
+  - PHP / Symfony
+  - MySQL
+
+- 📫 How to reach me: dylan.dennig@lapiscine.pro
+
+
