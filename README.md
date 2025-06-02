@@ -1,8 +1,8 @@
 ## Hi there ! I'm Dylan 👋
 
-🔭 I’m currently working on my project "MeloQuest" for my bootcamp at La Piscine in Mérignac (France). 
-On this website you can upload your tracks, rate, and comment other tracks. 
-It's a real pleasure to work on it.
+🔭 I worked on a project called "MeloQuest" during my bootcamp at La Piscine in Mérignac (France).
+On this website, users could upload their tracks, rate, and comment on others'.
+It was a real pleasure to work on it.
   
 ## 💻 SKILLS
   # FRONT-END
@@ -15,7 +15,7 @@ It's a real pleasure to work on it.
   - PHP / Symfony
   - MySQL
 
-- 📫 How to reach me: dylan.dennig@lapiscine.pro | www.linkedin.com/in/dylan-dennig
+- 📫 How to reach me: dng.dyl@gmail.com | www.linkedin.com/in/dylan-dennig
 
   # Let's connect and collaborate on GitHub or LinkedIn ! 😄
 
