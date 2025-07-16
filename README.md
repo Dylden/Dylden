@@ -1,7 +1,7 @@
 ## Hi there ! I'm Dylan 👋
 
 🔭 I worked on a project called "MeloQuest" during my studies.
-On this website, users could upload their tracks, rate, and comment on others'.
+On this website, users can upload their tracks, rate, and comment on others'.
 It was a real pleasure to work on it.
   
 ## 💻 SKILLS
