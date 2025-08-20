@@ -6,9 +6,8 @@ It was a real pleasure to work on it.
   
 ## 💻 SKILLS
   # FRONT-END
-  - HTML5 / CSS3
+  - HTML5 / CSS3 / SCSS
   - JavaScript
-  - SCSS
   - Bootstrap
    
   # BACK-END
