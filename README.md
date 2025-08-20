@@ -4,18 +4,18 @@
 On this website, users can upload their tracks, rate, and comment on others'.
 It was a real pleasure to work on it.
   
-## 💻 SKILLS
-  # FRONT-END
+# 💻 SKILLS
+  ## FRONT-END
   - HTML5 / CSS3 / SCSS
   - JavaScript
   - Bootstrap
    
-  # BACK-END
+  ## BACK-END
   - PHP / Symfony
   - MySQL
 
-- 📫 How to reach me: dng.dyl@gmail.com | www.linkedin.com/in/dylan-dennig
-
   # Let's connect and collaborate on GitHub or LinkedIn ! 😄
+📫 How to reach me: dng.dyl@gmail.com | www.linkedin.com/in/dylan-dennig
+
 
 
